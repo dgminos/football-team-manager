@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Football team manager",
-  description: "Aplicación web para crear equipos de fútbol con tus jugadores favoritos",
+  description: "Football web app to create your dream team with your favorites players",
 };
 
 export default function RootLayout({
